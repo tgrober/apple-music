@@ -21,3 +21,5 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.env
+AuthKey_8Q229V4M9U.p8
